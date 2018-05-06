@@ -7,5 +7,4 @@ public class testThird {
     double max = Double.MAX_VALUE;
 
     transient float t = -1;
-
 }
